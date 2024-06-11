@@ -1,0 +1,5 @@
+47 52 15.00 nolack 4 2025-12-30
+78 14 25.00 oird fini 2025-12-30
+7 lo 45.00 nolack fin 2025-10-20
+4 poi 4500.00 nolack fin 2025-01-03
+12 poiu 4500.00 oif fini 2024-12-31
